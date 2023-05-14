@@ -3,7 +3,7 @@
 ## Подготовка и запуск проекта
 ### Склонируйте репозиторий на локальную машину
     git clone https://github.com/idudnikov/datafort_test_task.git
-### Cоздайте .env файл в директории weather_collector и впишите в него API клю
+### Cоздайте .env файл и впишите в него API клю
     API_KEY=<API ключ сайта "https://openweathermap.org/">
 #### Для целей тестирования можно использовать мой API ключ
     b7c12c9ba2e4c1efe6b6799a45a2822e
